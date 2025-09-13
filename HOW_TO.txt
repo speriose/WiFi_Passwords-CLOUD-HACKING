@@ -1,0 +1,11 @@
+Install required Python modules (if not already installed):
+pip install smtplib
+
+Update the script with your Gmail address and App Password:
+
+email = "your-email@gmail.com"
+app_password = "your-app-password"
+
+Run the script:
+
+python wifi_extractor.py
