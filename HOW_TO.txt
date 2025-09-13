@@ -8,4 +8,4 @@ app_password = "your-app-password"
 
 Run the script:
 
-python wifi_extractor.py
+python WIFI_Trojan.py
